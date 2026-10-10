@@ -18,12 +18,11 @@ Every Chrome Web Store button already points to item ID `ocddcpfmfpgallddfdcejeb
 
 ## 1. Fill in your details (find and replace)
 
-Open the folder in any editor that can replace text across files (for example VS Code: Ctrl+Shift+H). Replace:
+Open the folder in any editor that can replace text across files (for example VS Code: Ctrl+Shift+H). Replace (your email saqibsohaib48@gmail.com is already filled in):
 
 | Find | Replace with | Example |
 | --- | --- | --- |
 | `YOUR-USERNAME` | your GitHub username | `sohaib-dev` |
-| `YOUR-EMAIL@example.com` | your support email | `support@yourdomain.com` |
 
 ## 2. Publish on GitHub Pages
 

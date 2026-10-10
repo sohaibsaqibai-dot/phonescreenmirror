@@ -39,4 +39,5 @@ The only Chrome permission is "storage" (to remember settings). The extension ma
 
 ## Optional
 
+- Contact: saqibsohaib48@gmail.com
 - [Report a bug](https://github.com/YOUR-USERNAME/YOUR-USERNAME.github.io/issues)
