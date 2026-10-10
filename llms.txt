@@ -1,0 +1,42 @@
+# Phone Screen Mirror to PC: Cast Android to Chrome
+
+> Phone Screen Mirror to PC is a free Chrome extension that shows an Android phone's screen on a Windows, Mac, Linux or Chromebook computer over a USB cable, and lets you control the phone with the mouse. Nothing is installed on the phone, there is no desktop program, no account, and no data leaves the computer.
+
+- Install (Chrome Web Store, free): https://chromewebstore.google.com/detail/ocddcpfmfpgallddfdcejebnanejibnb
+- Chrome Web Store item ID: ocddcpfmfpgallddfdcejebnanejibnb
+- Current version: 1.1.0 (October 2026)
+- Works with: Android 5.0 or newer phones and tablets (phone sound needs Android 11 or newer)
+- Needs: USB debugging turned on, a USB data cable, Google Chrome or Microsoft Edge 116 or newer
+- Does not support: iPhone or iPad; wireless (Wi-Fi) connection is not available yet
+- Price: free, no ads, no watermark, no account
+
+## Pages
+
+- [Home](https://YOUR-USERNAME.github.io/): what it does, features, how it works, FAQ
+- [Support](https://YOUR-USERNAME.github.io/support.html): USB debugging steps for Samsung, Xiaomi, Google Pixel, OnePlus, Oppo, Realme, Vivo, Huawei and Honor, plus fixes for common problems
+- [Privacy policy](https://YOUR-USERNAME.github.io/privacy.html): no data is collected; video and sound stay on the user's computer
+
+## Features
+
+- Mirror the phone screen in Chrome at up to 1080p and 60 fps over USB, with low delay
+- Control the phone with the mouse: click to tap, drag to swipe, scroll lists, right-click for Back; Back, Home and Recents buttons
+- Phone sound plays on the PC (Android 11+), or use the phone's microphone; optional PC microphone for recordings
+- Floating phone window that stays visible across tabs; Pin on top keeps it above all windows
+- Screenshots and screen recording
+- Stream Mode: a 9:16 (TikTok) or 16:9 (YouTube) live layout with blurred, gradient, solid or green-screen background, @handle overlay and LIVE badge, for OBS Studio or TikTok LIVE Studio Window Capture
+- Built-in step-by-step setup guide for each phone brand
+
+## How to mirror an Android phone to a PC with it
+
+1. Add the extension from the Chrome Web Store.
+2. On the phone, open Settings > About phone and tap Build number 7 times; then open Developer options and turn on USB debugging.
+3. Plug the phone into the computer with a USB data cable.
+4. Click the extension icon, click Connect phone, choose the phone, and tap Allow on the phone (tick Always allow).
+
+## Privacy
+
+The only Chrome permission is "storage" (to remember settings). The extension makes no network requests. USB access uses Chrome's own device picker, and Android asks the user to allow the computer. The open-source scrcpy server (Apache-2.0) is bundled and runs on the phone over USB to capture the screen.
+
+## Optional
+
+- [Report a bug](https://github.com/YOUR-USERNAME/YOUR-USERNAME.github.io/issues)
